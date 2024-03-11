@@ -1,4 +1,4 @@
-    1  yum update
+    # yum update
     2  yum install wget -y
     3  sudo yum install java-1.8.0-openjdk.x86_64 -y
     4  mkdir /app
